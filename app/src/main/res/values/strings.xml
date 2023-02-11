@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">StudyingAndroid</string>
+    <string name="app_name">Beer Market</string>
     <string name="find_some_beer">Find Some Beer</string>
     <string-array name="beer_colors">
         <item>Light</item>
